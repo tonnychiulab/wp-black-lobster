@@ -1,4 +1,6 @@
 # 🦞 黑龍蝦 Black Lobster — Autonomous WordPress Plugin Dev Agent
+<img width="1914" height="905" alt="image" src="https://github.com/user-attachments/assets/bd5659a3-e2c8-474b-b591-66510e5fcc6d" />
+
 
 > **「只有龍蝦能寫出龍蝦級的外掛」**
 
