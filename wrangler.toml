@@ -1,5 +1,0 @@
-name = "wp-black-lobster"
-pages_build_output_dir = "dashboard/dist"
-
-[build]
-command = "cd dashboard && npm install && npm run build"
