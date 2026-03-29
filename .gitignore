@@ -35,3 +35,9 @@ test_*.js
 
 # Issue tracking (local only)
 issue.log
+
+# wrangler files
+.wrangler
+.dev.vars*
+!.dev.vars.example
+!.env.example
