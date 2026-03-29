@@ -1,7 +1,6 @@
 # 🦞 黑龍蝦 Black Lobster — Autonomous WordPress Plugin Dev Agent
 <img width="1914" height="905" alt="image" src="https://github.com/user-attachments/assets/bd5659a3-e2c8-474b-b591-66510e5fcc6d" />
 
-
 > **「只有龍蝦能寫出龍蝦級的外掛」**
 
 ![License](https://img.shields.io/badge/License-MIT-red.svg)
@@ -31,14 +30,7 @@
 
 ## 📸 截圖預覽
 
-> 請替換為您的實際截圖
-
-```
-<img width="1910" height="905" alt="image" src="https://github.com/user-attachments/assets/75c02c6d-4ee8-4e15-8f2a-274c0f8a5915" />
-
-```
-
----
+<img width="1915" height="906" alt="image" src="https://github.com/user-attachments/assets/136ed56d-5db2-4b0e-8c47-8aa96d65ffbe" />
 
 ## 🚀 快速開始 (Quick Start)
 
