@@ -1,0 +1,6 @@
+name = "wp-black-lobster"
+pages_build_output_dir = "dashboard/dist"
+
+[[pages_build_config]]
+directory = "dashboard"
+command = "npm run build"
